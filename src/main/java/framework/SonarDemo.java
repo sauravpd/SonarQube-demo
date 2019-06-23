@@ -9,4 +9,8 @@ public class SonarDemo
 	{
 		logger.info("SonarQube Jenkins Integation Demo .. !!");
 	}
+	public int add(int a,int b)
+	{
+		return a+b;
+	}
 }
